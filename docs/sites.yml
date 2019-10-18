@@ -8022,3 +8022,14 @@
     - Blog
     - Education
   featured: false
+- title: WP Hacked Help - WordPress Malware Scanner Online
+  url: https://secure.wphackedhelp.com/
+  main_url: https://secure.wphackedhelp.com/
+  source_url: https://github.com/Wphackedhelp/Wordpress-scanner
+  description: >
+    WP Hacked Help provides WordPress malware removal, WordPress monitoring and website protection services. 
+  categories:
+    - Technology
+  built_by: Redblink
+  built_by_url: https://redblink.com/
+  featured: false
